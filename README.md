@@ -77,6 +77,10 @@ If you are using 150kΩ potentiometers, you do not need to put a capacitor in pa
 
 ![Schematic](images/schematic.png "Schematic")
 
+This is the pinout for the DB9 connector, looking from the back of it:
+
+![DB9](images/DB9.png "DB9")
+
 ## 3D Printer Models
 
 The 3D Printer STL files are included. There are two variations:
